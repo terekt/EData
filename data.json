@@ -1,0 +1,951 @@
+[
+    {
+        "scene": "M_B50",
+        "name": "Ruined Shrine",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 6,
+            "PatrolSpawnPoints": 2,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_A70",
+        "name": "Devoured Armoury",
+        "monolithInformation": {
+            "bossSpawnPoints": 2,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 6,
+            "PatrolSpawnPoints": 1,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_A10",
+        "name": "Flooded Cavern",
+        "monolithInformation": {
+            "bossSpawnPoints": 2,
+            "ForgeSpawnPoints": 1,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_B40",
+        "name": "Shrouded Plateau",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 6,
+            "PatrolSpawnPoints": 2,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_D20",
+        "name": "Serpentine Desert",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_B20",
+        "name": "Burning Forest",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_A50",
+        "name": "Volcanic City",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 6,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_C60",
+        "name": "Fallen Harbour",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F70",
+        "name": "Frozen Woodland",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F20",
+        "name": "Broken Hills",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_C30",
+        "name": "Forlorn Streets",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_D30",
+        "name": "Majasan Slums",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_Z30",
+        "name": "Forest Trails",
+        "monolithInformation": {
+            "bossSpawnPoints": 3,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_B1S10",
+        "name": "Forsaken Hamlet",
+        "monolithInformation": {
+            "bossSpawnPoints": 3,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_B1S40",
+        "name": "Fallen Refuge",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 1,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_B2S10",
+        "name": "Lost Catacombs",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_B30",
+        "name": "Ruined City",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_C20",
+        "name": "Jagged Outskirts",
+        "monolithInformation": {
+            "bossSpawnPoints": 3,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 9,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_C35TR",
+        "name": "Willow Marsh",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 2,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_D10",
+        "name": "Arid Wastes",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_D35",
+        "name": "Imperial Maj\\u2019elka",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 9,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_D60",
+        "name": "Canyon Stronghold",
+        "monolithInformation": {
+            "bossSpawnPoints": 2,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 5,
+            "PatrolSpawnPoints": 2,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_E20",
+        "name": "Waste Pools",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_E50",
+        "name": "Necropolis Caverns",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_E70",
+        "name": "Necropolis Streets",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_E80",
+        "name": "Festering Sewers",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 2,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F1S10",
+        "name": "Frozen Tunnels",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F10",
+        "name": "Solarum Ascent",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 0,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F50",
+        "name": "Boreal Forest",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F70W",
+        "name": "Rotting Fortress",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 6,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F80",
+        "name": "Imperial Warcamp",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 7,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_F90",
+        "name": "Devoured Sanctum",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_G70",
+        "name": "Lakeside Trail",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_G90",
+        "name": "Storm Swept Isle",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 4,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_G93",
+        "name": "Midnight Strand",
+        "monolithInformation": {
+            "bossSpawnPoints": 2,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M10",
+        "name": "Desert Canyons",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 9,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M20",
+        "name": "Defiled Valley",
+        "monolithInformation": {
+            "bossSpawnPoints": 8,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M40",
+        "name": "Frigid Hinterland",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 6,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M50",
+        "name": "Buried City",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M60",
+        "name": "Sealed Archive",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M70",
+        "name": "Forgotten Graves",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 9,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M80",
+        "name": "Verdant Outskirts",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 9,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M90",
+        "name": "Harvested Titan",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M30",
+        "name": "Burning Harbour",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M100",
+        "name": "Twisted Mire",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M110",
+        "name": "Wrecked Fleet",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M120",
+        "name": "Sheltered Abyss",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 3,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 2,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M130",
+        "name": "Autumnal Highlands",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 13,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M140",
+        "name": "Autumnal Grove",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M150",
+        "name": "Coastal Village",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M160",
+        "name": "Hidden Oasis",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M170",
+        "name": "Bloodworks",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 13,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M180",
+        "name": "Alpine Halls",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M190",
+        "name": "Lightless Pits",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M200",
+        "name": "Sinking City",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M210",
+        "name": "Barren Slums",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M220",
+        "name": "Sandswept Temple",
+        "monolithInformation": {
+            "bossSpawnPoints": 9,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 15,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M230",
+        "name": "Mountain Aerie",
+        "monolithInformation": {
+            "bossSpawnPoints": 5,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 8,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M240",
+        "name": "Sapphire Refuge",
+        "monolithInformation": {
+            "bossSpawnPoints": 8,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M250",
+        "name": "Underground Palace",
+        "monolithInformation": {
+            "bossSpawnPoints": 8,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M260",
+        "name": "Sunless Coast",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M270",
+        "name": "Haunted Reef",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M280",
+        "name": "Ritual Lake",
+        "monolithInformation": {
+            "bossSpawnPoints": 12,
+            "ForgeSpawnPoints": 7,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 5,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M300",
+        "name": "Imperial Metropolis",
+        "monolithInformation": {
+            "bossSpawnPoints": 8,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M310",
+        "name": "Snowbound City",
+        "monolithInformation": {
+            "bossSpawnPoints": 8,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M320",
+        "name": "Preserved Sanctuary",
+        "monolithInformation": {
+            "bossSpawnPoints": 4,
+            "ForgeSpawnPoints": 2,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M330",
+        "name": "Pristine Gardens",
+        "monolithInformation": {
+            "bossSpawnPoints": 8,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 15,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M340",
+        "name": "Frozen Sea",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 9,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M350",
+        "name": "Bleak Steppe",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 5,
+            "SpireSpawnPoints": 10,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M360",
+        "name": "Underground Lakes",
+        "monolithInformation": {
+            "bossSpawnPoints": 6,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 12,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M370",
+        "name": "Mudflats",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 4,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M380",
+        "name": "Snowbound Graves",
+        "monolithInformation": {
+            "bossSpawnPoints": 7,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 4,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    },
+    {
+        "scene": "M_M390",
+        "name": "Burned Fields",
+        "monolithInformation": {
+            "bossSpawnPoints": 9,
+            "ForgeSpawnPoints": 6,
+            "SpireSpawnPoints": 11,
+            "PatrolSpawnPoints": 3,
+            "IsQuestZone": false,
+            "variableElevationArena": false,
+            "IsRestZone": false
+        }
+    }
+]
